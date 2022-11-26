@@ -1,0 +1,3 @@
+Bank
+School
+Church 
